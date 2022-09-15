@@ -1,4 +1,6 @@
+### Self Introduction
 ### Hi there 👋
+I'm Hanyangduck.
 
 <!--
 **hanyangduck/hanyangduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
