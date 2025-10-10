@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a developer with a passion for game developmen
 
 ## 🚀 About Me
 
-- 🔭 Currently working on *NAD* as the main director.
+- 🔭 Currently working on *Isekai Mining Defense* as the main director.
 - 📫 How to reach me: wkdghk918@gmail.com
 - 🎬 Personal Movie Ratings: [Google Sheets (Kor)](https://docs.google.com/spreadsheets/d/1dD7HwMqftk3jl8Zm8NGAxl-kX1kHk4r0kyLm6RirfsM/edit?usp=sharing)
 
