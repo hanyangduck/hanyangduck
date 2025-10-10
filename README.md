@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a developer with a passion for game developmen
 - *My Little Ansan* is a project designed to enhance the exhibition experience at the Ansan Industrial History Museum through VR.
 - 🛠️ Technologies used: Unity, Meta Quest 2, etc.
 
-### [NAD](https://store.steampowered.com/app/3518990/NAD/)
-- *NAD* is a unique tower defense game that I'm currently working on as the main director. The main themes of the game are **exploration**, **resource management**, **defense**, and **roguelike** elements.
+### [Isekai Mining Defense](https://store.steampowered.com/app/3518990/Isekai_Mining_Defence/)
+- *Isekai Mining Defense* is a unique tower defense game that I'm currently working on as the main director. The main themes of the game are **exploration**, **resource management**, **defense**, and **roguelike** elements.
 - Players will explore paths while managing resources and defending against waves of enemies. Each playthrough is different, as the paths and resource management strategies change with every new session.
 - 🛠️ Technologies used: Unity
 
